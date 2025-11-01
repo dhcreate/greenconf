@@ -1,7 +1,7 @@
 # greenconf
 
 - [greenconf](https://fossdot.github.io/greenconf) - A directory of vendors to organize eco-friendly conferences and meetups in India
- and USA.
+ and USA and other countries.
 
 
 ## Contributing
